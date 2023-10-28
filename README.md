@@ -9,4 +9,4 @@
 
 - How to run binary file(this has no extension)
 
-	./binary_file_name
+	./src/average
